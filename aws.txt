@@ -1,4 +1,4 @@
 welcome aws
 how are you?
 my name is avi
-how may I help?
+how can I help?
