@@ -1,5 +1,2 @@
 welcome aws
 how are you?
-my name is avi
-hi avi, welcome b2 branch
-welcome to class
